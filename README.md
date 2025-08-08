@@ -1,1 +1,1 @@
-# DashboardProject
+# Buddies
